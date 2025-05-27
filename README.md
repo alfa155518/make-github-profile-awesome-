@@ -23,16 +23,7 @@ For tutorials, tips, and walkthroughs related to GitHub profiles and development
 
 🔗 [Subscribe on YouTube](https://youtube.com/@alfa_015?si=GRs7XLFBZXGdgRgW)
 
-### 💖 Support This Project
-
-If this repo helped you, consider supporting it:
-
-- 🌟 Star the repository
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/your-username)
-- 🏛️ [Sponsor on GitHub](https://github.com/sponsors/alfa155518)
-
----
-
+--
 
 ## 🖼️ Sample Preview
 
